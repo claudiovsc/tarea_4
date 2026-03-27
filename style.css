@@ -27,3 +27,24 @@ header, nav {
     margin-bottom: 10px;
 }
 
+.section_class1 {
+    
+    background-color: rgb(237, 241, 26);
+    color: rgb(0, 0, 0);
+    padding: 4px;
+    margin-bottom: 7px;
+}
+.sector_contacto {
+    color: rgb(238, 10, 10);
+    background-color: rgb(40, 26, 241);
+    padding: 4px;
+    margin-bottom: 7px;
+}
+
+.mail {
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 26, 26);
+    padding: 4px;
+    margin-bottom: 7px;
+}
+
