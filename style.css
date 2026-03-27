@@ -4,7 +4,13 @@ h1, h2, h3 {
 
 body, p {
     font-family: 'Iosevka Charon', monospace;
-    /*color: rgb(227, 231, 6);
-    background-color: rgb(214, 100, 154);*/
 }
+
+header, nav {
+    background-color: rgb(214, 100, 154);
+    color: rgb(227, 231, 6);
+    padding: 20px;
+    margin-bottom: 16px;
+}
+
 
