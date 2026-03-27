@@ -48,3 +48,9 @@ header, nav {
     margin-bottom: 7px;
 }
 
+footer {
+    background-color: rgb(26, 241, 73);
+    color: rgb(6, 216, 231);
+    padding: 20px;
+    margin-top: 8px;
+}
