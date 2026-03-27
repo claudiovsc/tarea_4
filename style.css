@@ -10,7 +10,14 @@ header, nav {
     background-color: rgb(214, 100, 154);
     color: rgb(227, 231, 6);
     padding: 20px;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
+}
+
+.section_class {
+    background-color: rgb(26, 241, 73);
+    color: rgb(6, 216, 231);
+    padding: 30px;
+    margin-bottom: 7px;
 }
 
 
