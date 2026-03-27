@@ -1,0 +1,10 @@
+h1, h2, h3 {
+    font-family: 'Momo Signature', cursive;
+}
+
+body, p {
+    font-family: 'Iosevka Charon', monospace;
+    /*color: rgb(227, 231, 6);
+    background-color: rgb(214, 100, 154);*/
+}
+
